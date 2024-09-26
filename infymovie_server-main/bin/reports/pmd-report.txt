@@ -1,0 +1,408 @@
+src/main/java/com/infy/InfyMovieApplication.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/InfyMovieApplication.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/InfyMovieApplication.java:9:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/infy/InfyMovieApplication.java:9:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/infy/InfyMovieApplication.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/InfyMovieApplication.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/InfyMovieApplication.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/infy/InfyMovieApplication.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/infy/api/MovieAPI.java:25:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/infy/api/MovieAPI.java:25:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/infy/api/MovieAPI.java:25:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/api/MovieAPI.java:25:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/api/MovieAPI.java:28:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/infy/api/MovieAPI.java:28:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/infy/api/MovieAPI.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/api/MovieAPI.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/api/MovieAPI.java:31:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/infy/api/MovieAPI.java:31:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/infy/api/MovieAPI.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/api/MovieAPI.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/api/MovieAPI.java:34:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/api/MovieAPI.java:34:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/api/MovieAPI.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'movie' is not assigned and could be declared final
+src/main/java/com/infy/api/MovieAPI.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'movie' is not assigned and could be declared final
+src/main/java/com/infy/api/MovieAPI.java:34:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/infy/api/MovieAPI.java:34:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/infy/api/MovieAPI.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movieId' could be declared final
+src/main/java/com/infy/api/MovieAPI.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movieId' could be declared final
+src/main/java/com/infy/api/MovieAPI.java:41:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/api/MovieAPI.java:41:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/api/MovieAPI.java:41:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/infy/api/MovieAPI.java:41:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/infy/api/MovieAPI.java:46:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/api/MovieAPI.java:46:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/api/MovieAPI.java:46:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'movie' is not assigned and could be declared final
+src/main/java/com/infy/api/MovieAPI.java:46:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'movie' is not assigned and could be declared final
+src/main/java/com/infy/api/MovieAPI.java:46:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/infy/api/MovieAPI.java:46:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/infy/api/MovieAPI.java:52:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/api/MovieAPI.java:52:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/api/MovieAPI.java:52:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'movieId' is not assigned and could be declared final
+src/main/java/com/infy/api/MovieAPI.java:52:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'movieId' is not assigned and could be declared final
+src/main/java/com/infy/api/MovieAPI.java:52:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/infy/api/MovieAPI.java:52:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/infy/dto/Movie.java:8:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/infy/dto/Movie.java:8:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/infy/dto/Movie.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/dto/Movie.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/dto/Movie.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/dto/Movie.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/dto/Movie.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/dto/Movie.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/dto/Movie.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/dto/Movie.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/dto/Movie.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'movieId' is not assigned and could be declared final
+src/main/java/com/infy/dto/Movie.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'movieId' is not assigned and could be declared final
+src/main/java/com/infy/dto/Movie.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/main/java/com/infy/dto/Movie.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/main/java/com/infy/dto/Movie.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rating' is not assigned and could be declared final
+src/main/java/com/infy/dto/Movie.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rating' is not assigned and could be declared final
+src/main/java/com/infy/entity/MovieEntity.java:11:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/infy/entity/MovieEntity.java:11:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/infy/entity/MovieEntity.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/entity/MovieEntity.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/entity/MovieEntity.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/entity/MovieEntity.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/entity/MovieEntity.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/entity/MovieEntity.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/entity/MovieEntity.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/entity/MovieEntity.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/entity/MovieEntity.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'movieId' is not assigned and could be declared final
+src/main/java/com/infy/entity/MovieEntity.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'movieId' is not assigned and could be declared final
+src/main/java/com/infy/entity/MovieEntity.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/main/java/com/infy/entity/MovieEntity.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/main/java/com/infy/entity/MovieEntity.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rating' is not assigned and could be declared final
+src/main/java/com/infy/entity/MovieEntity.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rating' is not assigned and could be declared final
+src/main/java/com/infy/exception/MovieException.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/exception/MovieException.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/exception/MovieException.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/exception/MovieException.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/exception/MovieException.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'msg' is not assigned and could be declared final
+src/main/java/com/infy/exception/MovieException.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'msg' is not assigned and could be declared final
+src/main/java/com/infy/repository/MovieDAO.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/repository/MovieDAO.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/repository/MovieDAO.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/repository/MovieDAO.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/service/MovieService.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/service/MovieService.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/service/MovieService.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/service/MovieService.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/service/MovieService.java:9:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/infy/service/MovieService.java:9:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/infy/service/MovieService.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/service/MovieService.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/service/MovieService.java:10:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/infy/service/MovieService.java:10:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/infy/service/MovieService.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/service/MovieService.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/service/MovieService.java:11:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/infy/service/MovieService.java:11:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/infy/service/MovieService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/service/MovieService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/service/MovieService.java:12:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/infy/service/MovieService.java:12:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/infy/service/MovieServiceImpl.java:19:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/infy/service/MovieServiceImpl.java:19:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/infy/service/MovieServiceImpl.java:19:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/service/MovieServiceImpl.java:19:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/service/MovieServiceImpl.java:22:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/infy/service/MovieServiceImpl.java:22:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/infy/service/MovieServiceImpl.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/service/MovieServiceImpl.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/service/MovieServiceImpl.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'movie' is not assigned and could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'movie' is not assigned and could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'optional' could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'optional' could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:29:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/infy/service/MovieServiceImpl.java:29:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/infy/service/MovieServiceImpl.java:38:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/infy/service/MovieServiceImpl.java:38:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/infy/service/MovieServiceImpl.java:44:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movies' could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:44:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movies' could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'optional' could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'optional' could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:46:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/infy/service/MovieServiceImpl.java:46:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/infy/service/MovieServiceImpl.java:47:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'iterable' could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:47:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'iterable' could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:48:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movie' could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:48:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movie' could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:49:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/infy/service/MovieServiceImpl.java:49:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/infy/service/MovieServiceImpl.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movie2' could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movie2' could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:60:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'movieId' is not assigned and could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:60:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'movieId' is not assigned and could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:60:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rating' is not assigned and could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:60:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rating' is not assigned and could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:62:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'optional' could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:62:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'optional' could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:63:	ConfusingTernary:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/infy/service/MovieServiceImpl.java:63:	ConfusingTernary:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/infy/service/MovieServiceImpl.java:63:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/infy/service/MovieServiceImpl.java:63:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/infy/service/MovieServiceImpl.java:64:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movie' could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:64:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movie' could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:65:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/infy/service/MovieServiceImpl.java:65:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/infy/service/MovieServiceImpl.java:73:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'movieId' is not assigned and could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:73:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'movieId' is not assigned and could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:74:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'optional' could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:74:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'optional' could be declared final
+src/main/java/com/infy/service/MovieServiceImpl.java:75:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/infy/service/MovieServiceImpl.java:75:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/infy/utility/ErrorMessage.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/infy/utility/ErrorMessage.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/infy/utility/ErrorMessage.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/utility/ErrorMessage.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/utility/ErrorMessage.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/utility/ErrorMessage.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/utility/ErrorMessage.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/utility/ErrorMessage.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/utility/ErrorMessage.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/utility/ErrorMessage.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/utility/ErrorMessage.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'errMessage' is not assigned and could be declared final
+src/main/java/com/infy/utility/ErrorMessage.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'errMessage' is not assigned and could be declared final
+src/main/java/com/infy/utility/ErrorMessage.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'i' is not assigned and could be declared final
+src/main/java/com/infy/utility/ErrorMessage.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'i' is not assigned and could be declared final
+src/main/java/com/infy/utility/ErrorMessage.java:18:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+src/main/java/com/infy/utility/ErrorMessage.java:18:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+src/main/java/com/infy/utility/ErrorMessage.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'timeStamp' is not assigned and could be declared final
+src/main/java/com/infy/utility/ErrorMessage.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'timeStamp' is not assigned and could be declared final
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:19:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:19:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:19:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:19:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:22:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:22:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ex' is not assigned and could be declared final
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ex' is not assigned and could be declared final
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:25:	ShortVariable:	ShortVariable: Avoid variables with short names like ex
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:25:	ShortVariable:	ShortVariable: Avoid variables with short names like ex
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:28:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:28:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:29:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:29:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:29:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:29:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:29:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:29:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:29:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:29:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:32:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:32:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:36:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:36:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:39:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:39:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:39:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ex' is not assigned and could be declared final
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:39:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ex' is not assigned and could be declared final
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:39:	ShortVariable:	ShortVariable: Avoid variables with short names like ex
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:39:	ShortVariable:	ShortVariable: Avoid variables with short names like ex
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:41:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:41:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:42:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:42:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:43:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:43:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:43:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:43:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:43:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:43:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:46:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:46:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:51:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:51:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'exception' is not assigned and could be declared final
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'exception' is not assigned and could be declared final
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:54:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:54:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:56:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:56:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:62:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:62:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:62:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'exception' is not assigned and could be declared final
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:62:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'exception' is not assigned and could be declared final
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:64:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:64:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:65:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:65:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:67:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/ExceptionControllerAdvice.java:67:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/LoggingAspect.java:18:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/infy/utility/LoggingAspect.java:18:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/infy/utility/LoggingAspect.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/utility/LoggingAspect.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/utility/LoggingAspect.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'exception' is not assigned and could be declared final
+src/main/java/com/infy/utility/LoggingAspect.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'exception' is not assigned and could be declared final
+src/main/java/com/infy/utility/LoggingAspect.java:21:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/infy/utility/LoggingAspect.java:21:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/infy/utility/LoggingAspect.java:22:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/LoggingAspect.java:22:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/LoggingAspect.java:23:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/LoggingAspect.java:23:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/infy/utility/LoggingAspect.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'exception' is not assigned and could be declared final
+src/main/java/com/infy/utility/LoggingAspect.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'exception' is not assigned and could be declared final
+src/main/java/com/infy/utility/LoggingAspect.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'logger' could be declared final
+src/main/java/com/infy/utility/LoggingAspect.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'logger' could be declared final
+src/main/java/com/infy/utility/LoggingAspect.java:32:	GuardLogStatement:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/infy/utility/LoggingAspect.java:32:	GuardLogStatement:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/infy/validator/MovieValidator.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/validator/MovieValidator.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/infy/validator/MovieValidator.java:5:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/infy/validator/MovieValidator.java:5:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/infy/validator/MovieValidator.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/validator/MovieValidator.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/infy/validator/MovieValidator.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rating' is not assigned and could be declared final
+src/main/java/com/infy/validator/MovieValidator.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rating' is not assigned and could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:21:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/infy/service/test/MovieServiceTest.java:21:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/infy/service/test/MovieServiceTest.java:21:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/infy/service/test/MovieServiceTest.java:21:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/infy/service/test/MovieServiceTest.java:24:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/infy/service/test/MovieServiceTest.java:24:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/infy/service/test/MovieServiceTest.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/infy/service/test/MovieServiceTest.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/infy/service/test/MovieServiceTest.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/infy/service/test/MovieServiceTest.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/infy/service/test/MovieServiceTest.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/infy/service/test/MovieServiceTest.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/infy/service/test/MovieServiceTest.java:27:	ImmutableField:	ImmutableField: Private field 'movieService' could be made final; it is only initialized in the declaration or constructor.
+src/test/java/com/infy/service/test/MovieServiceTest.java:27:	ImmutableField:	ImmutableField: Private field 'movieService' could be made final; it is only initialized in the declaration or constructor.
+src/test/java/com/infy/service/test/MovieServiceTest.java:30:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/infy/service/test/MovieServiceTest.java:30:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/infy/service/test/MovieServiceTest.java:30:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/infy/service/test/MovieServiceTest.java:30:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/infy/service/test/MovieServiceTest.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movie' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movie' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movieEntity' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movieEntity' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:38:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:38:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:39:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:39:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:40:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'actual' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:40:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'actual' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:46:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/infy/service/test/MovieServiceTest.java:46:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/infy/service/test/MovieServiceTest.java:46:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/infy/service/test/MovieServiceTest.java:46:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/infy/service/test/MovieServiceTest.java:47:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movie' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:47:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movie' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:52:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movieEntity' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:52:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movieEntity' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'optional' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'optional' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:59:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:59:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:60:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:60:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:61:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'actual' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:61:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'actual' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:62:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/infy/service/test/MovieServiceTest.java:62:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/infy/service/test/MovieServiceTest.java:66:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/infy/service/test/MovieServiceTest.java:66:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/infy/service/test/MovieServiceTest.java:66:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/infy/service/test/MovieServiceTest.java:66:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/infy/service/test/MovieServiceTest.java:67:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'me' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:67:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'me' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:67:	ShortVariable:	ShortVariable: Avoid variables with short names like me
+src/test/java/com/infy/service/test/MovieServiceTest.java:67:	ShortVariable:	ShortVariable: Avoid variables with short names like me
+src/test/java/com/infy/service/test/MovieServiceTest.java:71:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'li' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:71:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'li' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:71:	ShortVariable:	ShortVariable: Avoid variables with short names like li
+src/test/java/com/infy/service/test/MovieServiceTest.java:71:	ShortVariable:	ShortVariable: Avoid variables with short names like li
+src/test/java/com/infy/service/test/MovieServiceTest.java:72:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'iterable' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:72:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'iterable' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:75:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:75:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:76:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'actual' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:76:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'actual' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:77:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/infy/service/test/MovieServiceTest.java:77:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/infy/service/test/MovieServiceTest.java:81:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/infy/service/test/MovieServiceTest.java:81:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/infy/service/test/MovieServiceTest.java:81:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/infy/service/test/MovieServiceTest.java:81:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/infy/service/test/MovieServiceTest.java:81:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/infy/service/test/MovieServiceTest.java:81:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/infy/service/test/MovieServiceTest.java:82:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movie' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:82:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movie' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:86:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movieEntity' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:86:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movieEntity' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:89:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:89:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:90:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:90:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:95:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/infy/service/test/MovieServiceTest.java:95:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/infy/service/test/MovieServiceTest.java:95:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/infy/service/test/MovieServiceTest.java:95:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/infy/service/test/MovieServiceTest.java:96:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movie' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:96:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movie' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:100:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movieEntity' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:100:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movieEntity' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:103:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:103:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:104:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'actual' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:104:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'actual' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:106:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/infy/service/test/MovieServiceTest.java:106:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/infy/service/test/MovieServiceTest.java:110:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/infy/service/test/MovieServiceTest.java:110:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/infy/service/test/MovieServiceTest.java:110:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/infy/service/test/MovieServiceTest.java:110:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/infy/service/test/MovieServiceTest.java:110:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/infy/service/test/MovieServiceTest.java:110:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/infy/service/test/MovieServiceTest.java:111:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movie' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:111:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movie' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:115:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movieEntity' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:115:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movieEntity' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:118:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:118:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:119:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:119:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:124:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/infy/service/test/MovieServiceTest.java:124:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/infy/service/test/MovieServiceTest.java:124:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/infy/service/test/MovieServiceTest.java:124:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/infy/service/test/MovieServiceTest.java:125:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movie' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:125:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movie' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:129:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movieEntity' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:129:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'movieEntity' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:132:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:132:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/infy/service/test/MovieServiceTest.java:133:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'actual' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:133:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'actual' could be declared final
+src/test/java/com/infy/service/test/MovieServiceTest.java:134:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/infy/service/test/MovieServiceTest.java:134:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/infy/validator/test/MovieValidatorTest.java:9:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/infy/validator/test/MovieValidatorTest.java:9:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/infy/validator/test/MovieValidatorTest.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/infy/validator/test/MovieValidatorTest.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/infy/validator/test/MovieValidatorTest.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/infy/validator/test/MovieValidatorTest.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/infy/validator/test/MovieValidatorTest.java:12:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/infy/validator/test/MovieValidatorTest.java:12:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/infy/validator/test/MovieValidatorTest.java:12:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/infy/validator/test/MovieValidatorTest.java:12:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/infy/validator/test/MovieValidatorTest.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/infy/validator/test/MovieValidatorTest.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/infy/validator/test/MovieValidatorTest.java:17:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/infy/validator/test/MovieValidatorTest.java:17:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/infy/validator/test/MovieValidatorTest.java:18:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ex' could be declared final
+src/test/java/com/infy/validator/test/MovieValidatorTest.java:18:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ex' could be declared final
+src/test/java/com/infy/validator/test/MovieValidatorTest.java:18:	ShortVariable:	ShortVariable: Avoid variables with short names like ex
+src/test/java/com/infy/validator/test/MovieValidatorTest.java:18:	ShortVariable:	ShortVariable: Avoid variables with short names like ex
+src/test/java/com/infy/validator/test/MovieValidatorTest.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/infy/validator/test/MovieValidatorTest.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)

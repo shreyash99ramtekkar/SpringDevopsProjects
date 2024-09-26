@@ -1,0 +1,23 @@
+pipeline {
+  agent any
+  stages {
+    stage('Kill_Process') {
+      steps {
+        bat 'C:\\Users\\jagadeesha_t\\Desktop\\FA4\\Kill_Process.bat 3344'
+      }
+    }
+
+    stage('Maven Build') {
+      steps {
+        bat 'mvn clean install'
+      }
+    }
+
+    stage('Deploy Jar') {
+      steps {
+        bat 'C:\\Users\\jagadeesha_t\\Desktop\\FA4\\Deploy_Server.bat InfyMovie_Server_Blue_master InfyMovieApp-0.0.1-SNAPSHOT'
+      }
+    }
+
+  }
+}
